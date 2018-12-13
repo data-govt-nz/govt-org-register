@@ -6,5 +6,11 @@ The dataset includes fields such as legal title, Te Reo Māori name, addresses, 
 
 If you'd like to discuss and make suggestions on the dataset structure you can [raise an issue at a discussion](https://github.com/data-govt-nz/govt-org-register/issues).
 
+## Dataset
+See the [CSV dataset file](govt-orgs.csv)
+
 ## Contributing
-Before raising a discussion please review our Code of Conduct and Contribution policy.
+Before raising a discussion please review our [Code of Conduct and Contribution policy](CONTRIBUTING.md).
+
+## Licence
+See [LICENCE](LICENSE.md)
