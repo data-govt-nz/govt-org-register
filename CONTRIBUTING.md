@@ -4,7 +4,7 @@
 
 Please raise pull requests against the master branch.
 
-Any contributions made via pull requests to the markdown content, you agree to give Department of Internal Affair the authority to license these revisions under CC-BY 4.0 International license on your behalf in the published guidance notes.
+Any contributions made via pull requests to the markdown content, you agree to give Department of Internal Affairs the authority to license these revisions under CC-BY 4.0 International license on your behalf in the published guidance notes.
 
 See [LICENSE](LICENSE.md).
 
