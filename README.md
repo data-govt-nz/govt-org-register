@@ -4,7 +4,7 @@ Prototype dataset of New Zealand government organisations. This supports the Ope
 
 The dataset includes fields such as legal title, Te Reo Māori name, addresses, and associated Chief Executives and Ministers. It also allows for the modeling of subsidiary organisations and change in the organisations over time due to changes in the machinery of government.
 
-If you'd like to discuss and make suggestions on the dataset structure you can [raise an issue at a discussion](https://github.com/data-govt-nz/govt-org-register/issues).
+If you'd like to discuss and make suggestions on the dataset structure you can [raise a GitHub issue as a discussion](https://github.com/data-govt-nz/govt-org-register/issues).
 
 ## Dataset
 See the [CSV dataset file](govt-orgs.csv)
